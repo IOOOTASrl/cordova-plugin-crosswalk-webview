@@ -148,7 +148,7 @@ cdvPluginPostBuildExtras.add({
     println xwalkSpec
 
     dependencies {
-        compile xwalkSpec
+        compile 'org.xwalk:xwalk_core_library:21.51.546.7' 
     }
 
     if (file('assets/xwalk-command-line').exists()) {
