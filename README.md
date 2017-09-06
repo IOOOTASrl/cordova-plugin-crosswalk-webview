@@ -1,6 +1,6 @@
 # cordova-plugin-crosswalk-webview
 
-** This fork forces usage of specific version 21.51.546.7 **
+**This fork forces usage of specific version 21.51.546.7**
 
 Makes your Cordova application use the [Crosswalk WebView](https://crosswalk-project.org/)
 instead of the System WebView. Requires cordova-android 4.0 or greater.
